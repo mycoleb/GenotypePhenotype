@@ -1,5 +1,6 @@
 # Spatial Gene Expression and Disease Susceptibility Analysis
 
+## There are issues involving the API and other things out of my control (12/25/2024). I'll have to come back to this
 ## Project Overview
 This project analyzes the relationship between spatial patterns of gene expression and disease susceptibility in the brain using Allen Brain Atlas data.
 
